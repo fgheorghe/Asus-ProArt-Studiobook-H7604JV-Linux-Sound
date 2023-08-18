@@ -2,6 +2,20 @@
 
 Linux ProArt Studiobook H7604JV_H7604JV sound fix.
 
+Works with:
+```ASUSTeK COMPUTER INC. ProArt Studiobook H7604JV_H7604JV/H7604JV, BIOS H7604JV.300 04/13/2023
+  Hardware Class: sound
+  Model: "Intel Multimedia audio controller"
+  Vendor: pci 0x8086 "Intel Corporation"
+  Device: pci 0x7a50
+  SubVendor: pci 0x1043 "ASUSTeK Computer Inc."
+  SubDevice: pci 0x1f1f
+  Revision: 0x11
+  Driver: "snd_hda_intel"
+  Driver Modules: "snd_hda_intel"
+```
+
+
 Use at your own risk.
 
 # Synopsis
