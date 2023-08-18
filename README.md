@@ -15,7 +15,7 @@ Works with:
   Driver Modules: "snd_hda_intel"
 ```
 
-
+Use ONLY for this specific model.
 Use at your own risk.
 
 # Synopsis
