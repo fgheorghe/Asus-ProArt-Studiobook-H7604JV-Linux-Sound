@@ -15,7 +15,7 @@ Works with:
   Driver Modules: "snd_hda_intel"
 ```
 
-Use ONLY for this specific model.
+Use ONLY for this specific model and BIOS version 300 (H7604JV.300).
 Use at your own risk.
 
 # Synopsis
