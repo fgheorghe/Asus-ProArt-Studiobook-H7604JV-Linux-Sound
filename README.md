@@ -1,5 +1,7 @@
 # Description
 
+!!! NOTE: As of Linux Kernel 6.7 this patch is obsolete. !!!
+
 Linux ProArt Studiobook H7604JV_H7604JV sound fix.
 
 Works with:
